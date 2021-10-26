@@ -1,5 +1,5 @@
 # 👋 Приветствую смотрящих 👋
-You can reach me on Telegram: @kairoslav
+You can reach me on Telegram: [@kairoslav](https://t.me/kairoslav)
 
 <!--
 **kairoslav/kairoslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
