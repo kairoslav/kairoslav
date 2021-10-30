@@ -1,5 +1,8 @@
 # 👋 Приветствую смотрящих 👋
+
 You can reach me on Telegram: [@kairoslav](https://t.me/kairoslav)
+
+My resume: [Резюме.docx](https://docs.google.com/document/d/1cDhW5PRpPZUWRaRhnYgxIM5AuFodup3k1S3wqJAiIL0/edit?usp=sharing)
 
 <!--
 **kairoslav/kairoslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
