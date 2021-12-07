@@ -2,7 +2,7 @@
 
 You can reach me on Telegram: [@kairoslav](https://t.me/kairoslav)
 
-My LinkedIn: https://www.linkedin.com/in/svyatoslav-kairanov-a98189227/
+My LinkedIn: https://www.linkedin.com/in/svyatoslav-kairanov/
 
 My resume: [Резюме.docx](https://docs.google.com/document/d/1cDhW5PRpPZUWRaRhnYgxIM5AuFodup3k1S3wqJAiIL0/edit?usp=sharing)
 
